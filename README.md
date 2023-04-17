@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Karim 👋
 
 <!--
 **karimelhage/karimelhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I am currently completing my Master in Data Sciences & Business Analytics at ESSEC Business School & CentraleSupélec in Paris.
+- 🔭 I’m currently working on a Dyslexia recommendation system and a stock trading porfolio game
+- :goal_net: My skills include Python, R, SQL, PyTorch, PySpark, Neo4j, NetworkX, and Tableau
+-  📫 How to reach me: On: www.linkedin.com/in/karimelhage
+
