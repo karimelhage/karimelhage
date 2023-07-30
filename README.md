@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I am currently completing a Master in Data Sciences & Business Analytics at ESSEC & CentraleSupélec in Paris.
+- 🌱 I'm currently completing a Master in Data Sciences & Business Analytics at ESSEC & CentraleSupélec in Paris.
 - 🔭 I’m currently building a recommendation system that matches solutions to severe problems of Dyslexic students.
 - :goal_net: My skills include Python, R, SQL, PyTorch, PySpark, Neo4j, NetworkX, and Tableau
 -  📫 How to reach me: www.linkedin.com/in/karimelhage
