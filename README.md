@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m working as a Data Scientist @ Echo Analytics.
-- 🌱 I've recently completed a Master in Data Sciences & Business Analytics at ESSEC & CentraleSupélec in Paris.
+- 🌱 I've recently completed a Master in Data Sciences & Business Analytics at ESSEC | CentraleSupélec in Paris.
 - :goal_net: My skills include Python, R, SQL, GCS, PyTorch, PySpark, Neo4j, NetworkX, and Tableau
 -  📫 How to reach me: www.linkedin.com/in/karimelhage
 
